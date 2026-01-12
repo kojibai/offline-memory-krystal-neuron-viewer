@@ -1,15 +1,3 @@
-Below are **production-ready, repo-ready** files for a proper public release:
-
-* **README.md** (fully framed for non-technical, technical, and philosophical audiences)
-* **LICENSE** (**Apache-2.0** — best balance of *max adoption* + *patent clarity* + *serious builder credibility*)
-* **NOTICE** (recommended companion for Apache-2.0)
-* **RELEASE_NOTES.md** (copy/paste into a GitHub Release)
-
----
-
-````md
-# README.md
-
 # PBI Memory Krystal — Offline Explorer
 
 **A single-file, offline “memory OS” that turns a Memory Krystal (sigil registry) into a searchable, navigable neural graph — no server, no database, no dependencies.**
